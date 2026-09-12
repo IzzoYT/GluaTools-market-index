@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "plugins": [
+    {
+      "id": "steam-devtools-plus",
+      "name": "Steam DevTools Plus",
+      "author": "Nova",
+      "description": "Extra debugging and Steam UI development helpers.",
+      "category": "DevTools",
+      "github": "YOUR_GITHUB_NAME/SteamDevToolsPlus",
+      "releaseAsset": "plugin.zip",
+      "target": "millennium",
+      "featured": true
+    },
+    {
+      "id": "lua-helper",
+      "name": "Lua Helper",
+      "author": "Nova",
+      "description": "Example GLuaTools-managed plugin.",
+      "category": "Lua",
+      "github": "YOUR_GITHUB_NAME/LuaHelper",
+      "releaseAsset": "plugin.zip",
+      "target": "gluatools"
+    }
+  ]
+}
